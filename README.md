@@ -16,11 +16,6 @@
 
 ⚡ Fun fact **I love to learn and read any subject!**
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=cosmitir&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmitir&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## Connect with me:
 <p align="left">
 <a href="https://codepen.io/cosmitir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cosmitir" height="30" width="40" /></a>
