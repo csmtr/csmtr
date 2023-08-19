@@ -8,11 +8,11 @@
 
 🤝 I’m looking for help with **finding a job.**
 
-👨‍💻 All of my projects are available at [cosmitir.pt](cosmitir.pt)
+👨‍💻 All of my projects are available at my [website](https://cosmitir.pt)
 
 💬 Ask me about **anything!**
 
-📄 Know about my experiences [SooNtm](SooNtm)
+📄 Know about my experiences [SooNtm]()
 
 ⚡ Fun fact **I love to learn and read any subject!**
 
@@ -46,5 +46,5 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cosmitir)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cosmitir)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](patreon.com/cosmitir)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/cosmitir)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cosmitir)
