@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-🔭 I’m currently working on **4Seasons.**
+🔭 I’m currently working on **Pecado Kapital.**
 
-🌱 I’m currently learning **3D, 3dsMax & Blender.**
+🌱 I’m currently learning **3dsMax & Network.**
 
 👯 I’m looking to collaborate on **...**
 
-🤝 I’m looking for help with **finding a job.**
+🤝 I’m looking for help with **earning even more money.**
 
-👨‍💻 All of my projects are available at my [website](https://cosmitir.pt)
+👨‍💻 All of my projects are available at my [website](https://ccsmtr.me) **WIP**
 
 💬 Ask me about **anything!**
 
